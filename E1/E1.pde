@@ -26,6 +26,6 @@ void draw()
   fill(0);
   stroke(0);
   ellipse(350,200,50+a,50+b);
-  a=a-1;
+  a=a-1; 
   b=b-1;
 }
