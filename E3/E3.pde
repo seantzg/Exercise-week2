@@ -16,10 +16,10 @@ void setup(){
   b=-1920;
   
   //image
-  birdimg=loadImage("img/0.jpg");
-  catimg=loadImage("img/1.jpg");
-  cokeimg=loadImage("img/2.jpg");
-  ratimg=loadImage("img/3.jpg");
+  birdimg=loadImage("E3Pic/0.jpg");
+  catimg=loadImage("E3Pic/1.jpg");
+  cokeimg=loadImage("E3Pic/2.jpg");
+  ratimg=loadImage("E3Pic/3.jpg");
 }
 
 void draw(){
